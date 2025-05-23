@@ -1,1 +1,1 @@
-# 39palakved.github.io
+# cognizant-training.github.io
